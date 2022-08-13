@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KapilDalal1
 - 👀 I’m interested in web & app development
-- 🌱 I’m currently learning machine learning
 - 📫 You can contact me on email dalalkapil96@gmail.com
 
 <!---
