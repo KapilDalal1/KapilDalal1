@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @KapilDalal1
-- 👀 I’m interested in web & app development
-- 📫 You can contact me on email dalalkapil96@gmail.com
-
-<!---
-KapilDalal1/KapilDalal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
